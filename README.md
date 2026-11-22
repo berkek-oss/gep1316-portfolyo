@@ -20,5 +20,5 @@ Bu dersten, kodlamanın temelini öğrenmeyi ve yapay zekâ araçlarını doğru
 ## Dosyalar
 
 - `merhaba.py`: Adı ve doğum yılını alıp yaşı hesaplayan program
-- `cikti.png`: Programın çıktısının ekran görüntüsü
+- `ekran-goruntuleri`: Programın çıktısının ekran görüntüsü
 - `PROMPTLAR.md`: YZ istemlerim ve YZ kullanım beyanım
